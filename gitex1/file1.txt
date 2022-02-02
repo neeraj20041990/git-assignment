@@ -1,1 +1,1 @@
-file1 sample
+file1 sample for branch hotflix_branch
